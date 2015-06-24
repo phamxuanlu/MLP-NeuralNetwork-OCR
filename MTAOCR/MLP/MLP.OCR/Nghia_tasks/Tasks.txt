@@ -1,0 +1,23 @@
+﻿1. Form Settings
+
+
+	Form fSettings đọc và hiển thị thông tin của file Config.ini, 
+	sau khi load lên form có thể thay đổi giá trị và save lại vào file config.ini
+
+	Hàm lưu Settings nên để ở trong class Network.Settings.cs rồi từ form chỉ gọi ra 
+	và truyền đối tượng Settings đã thay đổi vào thôi
+		
+	Các thông tin như số lớp, số neuron mỗi lớp thì dùng DomainUpDown
+	Còn lại dùng textbox
+
+	Để xử lý tốt thì dùng đối tượng Network.Settings, 
+	lớp này đọc file config và bỏ hết comments hoặc dòng trống, 
+	chỉ giữ lại Key và value, tham khảo cách dùng trong hàm tạo của MLP. 
+	Lưu lại file config sao cho giữ nguyên các comment hoặc dòng trống nhé.
+
+	Với hàm truyền thì sử dụng combobox và add {"HardLim", "PureLine", "LogSig"}, 
+	pro hơn thì đọc tất cả các type từ namespace Network.TransferFunctions lấy tên 
+	và add vào :D
+
+	Tạo bố cục đẹp đẹp tý, và dùng các label chú thích thêm ví dụ như với 
+	ErrorThreshold thêm label % biểu thị rằng đơn vị là %

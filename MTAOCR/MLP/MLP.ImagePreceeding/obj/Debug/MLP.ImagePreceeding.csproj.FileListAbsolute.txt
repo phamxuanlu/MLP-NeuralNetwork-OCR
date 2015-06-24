@@ -1,0 +1,10 @@
+E:\MTA work space\MTAOCR\MLP\MLP.ImagePreceeding\bin\Debug\MLP.ImagePreceeding.dll
+E:\MTA work space\MTAOCR\MLP\MLP.ImagePreceeding\bin\Debug\MLP.ImagePreceeding.pdb
+E:\MTA work space\MTAOCR\MLP\MLP.ImagePreceeding\obj\Debug\MLP.ImagePreceeding.csprojResolveAssemblyReference.cache
+E:\MTA work space\MTAOCR\MLP\MLP.ImagePreceeding\obj\Debug\MLP.ImagePreceeding.dll
+E:\MTA work space\MTAOCR\MLP\MLP.ImagePreceeding\obj\Debug\MLP.ImagePreceeding.pdb
+G:\OneDrive\LUWX\Neural Network\MTAOCR\MLP\MLP.ImagePreceeding\bin\Debug\MLP.ImagePreceeding.dll
+G:\OneDrive\LUWX\Neural Network\MTAOCR\MLP\MLP.ImagePreceeding\bin\Debug\MLP.ImagePreceeding.pdb
+G:\OneDrive\LUWX\Neural Network\MTAOCR\MLP\MLP.ImagePreceeding\obj\Debug\MLP.ImagePreceeding.csprojResolveAssemblyReference.cache
+G:\OneDrive\LUWX\Neural Network\MTAOCR\MLP\MLP.ImagePreceeding\obj\Debug\MLP.ImagePreceeding.dll
+G:\OneDrive\LUWX\Neural Network\MTAOCR\MLP\MLP.ImagePreceeding\obj\Debug\MLP.ImagePreceeding.pdb

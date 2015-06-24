@@ -1,0 +1,54 @@
+E:\MTA work space\MTAOCR\MLP\MLP.OCR\bin\Debug\MLP.OCR.exe.config
+E:\MTA work space\MTAOCR\MLP\MLP.OCR\bin\Debug\MLP.OCR.exe
+E:\MTA work space\MTAOCR\MLP\MLP.OCR\bin\Debug\MLP.OCR.pdb
+E:\MTA work space\MTAOCR\MLP\MLP.OCR\bin\Debug\MLP.ImagePreceeding.dll
+E:\MTA work space\MTAOCR\MLP\MLP.OCR\bin\Debug\Network.dll
+E:\MTA work space\MTAOCR\MLP\MLP.OCR\bin\Debug\MLP.ImagePreceeding.pdb
+E:\MTA work space\MTAOCR\MLP\MLP.OCR\bin\Debug\Network.pdb
+E:\MTA work space\MTAOCR\MLP\MLP.OCR\obj\Debug\MLP.OCR.csprojResolveAssemblyReference.cache
+E:\MTA work space\MTAOCR\MLP\MLP.OCR\obj\Debug\MLP.OCR.ErrorChart.resources
+E:\MTA work space\MTAOCR\MLP\MLP.OCR\obj\Debug\MLP.OCR.fMain.resources
+E:\MTA work space\MTAOCR\MLP\MLP.OCR\obj\Debug\MLP.OCR.fSettings.resources
+E:\MTA work space\MTAOCR\MLP\MLP.OCR\obj\Debug\MLP.OCR.fTraining.resources
+E:\MTA work space\MTAOCR\MLP\MLP.OCR\obj\Debug\MLP.OCR.GenerateImage.resources
+E:\MTA work space\MTAOCR\MLP\MLP.OCR\obj\Debug\MLP.OCR.Properties.Resources.resources
+E:\MTA work space\MTAOCR\MLP\MLP.OCR\obj\Debug\MLP.OCR.csproj.GenerateResource.Cache
+E:\MTA work space\MTAOCR\MLP\MLP.OCR\obj\Debug\MLP.OCR.exe
+E:\MTA work space\MTAOCR\MLP\MLP.OCR\obj\Debug\MLP.OCR.pdb
+E:\MTA work space\MTAOCR\MLP\MLP.OCR\obj\Debug\MLP.OCR.fStatistical.resources
+H:\Neural Network\MTAOCR\MLP\MLP.OCR\bin\Debug\MLP.OCR.exe.config
+H:\Neural Network\MTAOCR\MLP\MLP.OCR\obj\Debug\MLP.OCR.exe
+H:\Neural Network\MTAOCR\MLP\MLP.OCR\obj\Debug\MLP.OCR.pdb
+H:\Neural Network\MTAOCR\MLP\MLP.OCR\bin\Debug\MLP.OCR.exe
+H:\Neural Network\MTAOCR\MLP\MLP.OCR\bin\Debug\MLP.OCR.pdb
+H:\Neural Network\MTAOCR\MLP\MLP.OCR\bin\Debug\MLP.ImagePreceeding.dll
+H:\Neural Network\MTAOCR\MLP\MLP.OCR\bin\Debug\Network.dll
+H:\Neural Network\MTAOCR\MLP\MLP.OCR\bin\Debug\MLP.ImagePreceeding.pdb
+H:\Neural Network\MTAOCR\MLP\MLP.OCR\bin\Debug\Network.pdb
+H:\Neural Network\MTAOCR\MLP\MLP.OCR\obj\Debug\MLP.OCR.csprojResolveAssemblyReference.cache
+H:\Neural Network\MTAOCR\MLP\MLP.OCR\obj\Debug\MLP.OCR.ErrorChart.resources
+H:\Neural Network\MTAOCR\MLP\MLP.OCR\obj\Debug\MLP.OCR.fMain.resources
+H:\Neural Network\MTAOCR\MLP\MLP.OCR\obj\Debug\MLP.OCR.fSettings.resources
+H:\Neural Network\MTAOCR\MLP\MLP.OCR\obj\Debug\MLP.OCR.fStatistical.resources
+H:\Neural Network\MTAOCR\MLP\MLP.OCR\obj\Debug\MLP.OCR.fTraining.resources
+H:\Neural Network\MTAOCR\MLP\MLP.OCR\obj\Debug\MLP.OCR.GenerateImage.resources
+H:\Neural Network\MTAOCR\MLP\MLP.OCR\obj\Debug\MLP.OCR.Properties.Resources.resources
+H:\Neural Network\MTAOCR\MLP\MLP.OCR\obj\Debug\MLP.OCR.csproj.GenerateResource.Cache
+G:\OneDrive\LUWX\Neural Network\MTAOCR\MLP\MLP.OCR\bin\Debug\MLP.OCR.exe.config
+G:\OneDrive\LUWX\Neural Network\MTAOCR\MLP\MLP.OCR\obj\Debug\MLP.OCR.exe
+G:\OneDrive\LUWX\Neural Network\MTAOCR\MLP\MLP.OCR\obj\Debug\MLP.OCR.pdb
+G:\OneDrive\LUWX\Neural Network\MTAOCR\MLP\MLP.OCR\bin\Debug\MLP.OCR.exe
+G:\OneDrive\LUWX\Neural Network\MTAOCR\MLP\MLP.OCR\bin\Debug\MLP.OCR.pdb
+G:\OneDrive\LUWX\Neural Network\MTAOCR\MLP\MLP.OCR\bin\Debug\MLP.ImagePreceeding.dll
+G:\OneDrive\LUWX\Neural Network\MTAOCR\MLP\MLP.OCR\bin\Debug\Network.dll
+G:\OneDrive\LUWX\Neural Network\MTAOCR\MLP\MLP.OCR\bin\Debug\MLP.ImagePreceeding.pdb
+G:\OneDrive\LUWX\Neural Network\MTAOCR\MLP\MLP.OCR\bin\Debug\Network.pdb
+G:\OneDrive\LUWX\Neural Network\MTAOCR\MLP\MLP.OCR\obj\Debug\MLP.OCR.csprojResolveAssemblyReference.cache
+G:\OneDrive\LUWX\Neural Network\MTAOCR\MLP\MLP.OCR\obj\Debug\MLP.OCR.ErrorChart.resources
+G:\OneDrive\LUWX\Neural Network\MTAOCR\MLP\MLP.OCR\obj\Debug\MLP.OCR.fMain.resources
+G:\OneDrive\LUWX\Neural Network\MTAOCR\MLP\MLP.OCR\obj\Debug\MLP.OCR.fSettings.resources
+G:\OneDrive\LUWX\Neural Network\MTAOCR\MLP\MLP.OCR\obj\Debug\MLP.OCR.fStatistical.resources
+G:\OneDrive\LUWX\Neural Network\MTAOCR\MLP\MLP.OCR\obj\Debug\MLP.OCR.fTraining.resources
+G:\OneDrive\LUWX\Neural Network\MTAOCR\MLP\MLP.OCR\obj\Debug\MLP.OCR.GenerateImage.resources
+G:\OneDrive\LUWX\Neural Network\MTAOCR\MLP\MLP.OCR\obj\Debug\MLP.OCR.Properties.Resources.resources
+G:\OneDrive\LUWX\Neural Network\MTAOCR\MLP\MLP.OCR\obj\Debug\MLP.OCR.csproj.GenerateResource.Cache

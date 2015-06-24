@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Network", "Network\Network.csproj", "{B73FDBBA-4A23-46E6-9903-F1F9F892AB13}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MLP.OCR", "MLP.OCR\MLP.OCR.csproj", "{DAED9573-673B-4DEC-8B34-8C14FE589FFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MLP.ImagePreceeding", "MLP.ImagePreceeding\MLP.ImagePreceeding.csproj", "{5F97B528-2AAF-465E-928C-B28CC1B4CAAC}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://luwxmta.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = MLP.ImagePreceeding\\MLP.ImagePreceeding.csproj
+		SccProjectName1 = MLP.ImagePreceeding
+		SccLocalPath1 = MLP.ImagePreceeding
+		SccProjectUniqueName2 = MLP.OCR\\MLP.OCR.csproj
+		SccProjectName2 = MLP.OCR
+		SccLocalPath2 = MLP.OCR
+		SccProjectUniqueName3 = Network\\Network.csproj
+		SccProjectName3 = Network
+		SccLocalPath3 = Network
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B73FDBBA-4A23-46E6-9903-F1F9F892AB13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B73FDBBA-4A23-46E6-9903-F1F9F892AB13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B73FDBBA-4A23-46E6-9903-F1F9F892AB13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B73FDBBA-4A23-46E6-9903-F1F9F892AB13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAED9573-673B-4DEC-8B34-8C14FE589FFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAED9573-673B-4DEC-8B34-8C14FE589FFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAED9573-673B-4DEC-8B34-8C14FE589FFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAED9573-673B-4DEC-8B34-8C14FE589FFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F97B528-2AAF-465E-928C-B28CC1B4CAAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F97B528-2AAF-465E-928C-B28CC1B4CAAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F97B528-2AAF-465E-928C-B28CC1B4CAAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F97B528-2AAF-465E-928C-B28CC1B4CAAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

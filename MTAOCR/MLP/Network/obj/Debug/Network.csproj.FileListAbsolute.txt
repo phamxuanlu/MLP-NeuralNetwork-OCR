@@ -1,0 +1,15 @@
+E:\MTA work space\MTAOCR\MLP\Network\bin\Debug\Network.dll
+E:\MTA work space\MTAOCR\MLP\Network\bin\Debug\Network.pdb
+E:\MTA work space\MTAOCR\MLP\Network\obj\Debug\Network.csprojResolveAssemblyReference.cache
+E:\MTA work space\MTAOCR\MLP\Network\obj\Debug\Network.dll
+E:\MTA work space\MTAOCR\MLP\Network\obj\Debug\Network.pdb
+H:\Neural Network\MTAOCR\MLP\Network\bin\Debug\Network.dll
+H:\Neural Network\MTAOCR\MLP\Network\bin\Debug\Network.pdb
+H:\Neural Network\MTAOCR\MLP\Network\obj\Debug\Network.csprojResolveAssemblyReference.cache
+H:\Neural Network\MTAOCR\MLP\Network\obj\Debug\Network.dll
+H:\Neural Network\MTAOCR\MLP\Network\obj\Debug\Network.pdb
+G:\OneDrive\LUWX\Neural Network\MTAOCR\MLP\Network\bin\Debug\Network.dll
+G:\OneDrive\LUWX\Neural Network\MTAOCR\MLP\Network\bin\Debug\Network.pdb
+G:\OneDrive\LUWX\Neural Network\MTAOCR\MLP\Network\obj\Debug\Network.csprojResolveAssemblyReference.cache
+G:\OneDrive\LUWX\Neural Network\MTAOCR\MLP\Network\obj\Debug\Network.dll
+G:\OneDrive\LUWX\Neural Network\MTAOCR\MLP\Network\obj\Debug\Network.pdb

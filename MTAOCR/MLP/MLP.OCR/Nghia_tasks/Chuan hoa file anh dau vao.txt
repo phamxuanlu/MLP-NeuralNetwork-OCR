@@ -1,0 +1,5 @@
+﻿
+
+Ông xây dựng hàm chuẩn hóa đầu vào làm việc với công cụ sinh dữ liệu nhé.(chỉ sửa form GetnerateImage)
+
+Cắt lấy ảnh bọc lấy ký tự, không có các khoảng trắng xung quanh.
